@@ -28,5 +28,3 @@ No installation required. Just run the EXE files.
 Created for the Farming Simulator modding community.
 
 ** End goal is to package it all into the one EXE. **
-
-(blob:https://tinypic.app/b549d52d-6350-42c0-9ca9-d1e119a68dad)
